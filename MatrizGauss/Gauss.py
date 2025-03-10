@@ -1,2 +1,2 @@
 print("Hola Gauss")
-nknnnklnklkln
+Hola jamonsito
