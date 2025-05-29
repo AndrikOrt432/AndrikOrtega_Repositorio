@@ -51,12 +51,8 @@ Repositorio de temas de **Métodos Numéricos**, desarrollado con ejemplos en Py
    git clone https://github.com/AndrikOrt432/AndrikOrtega_Repositorio.git
 
    # Métodos Numéricos
-
-
-
-##  Autor del GITHUB
-
-- **Sergio López Beltrán**
+Tema 2:
+https://github.com/AndrikOrt432/AndrikOrtega_Repositorio/tree/d4e50ba5ec78457d8bdbd5fa4e0b297746cb4f47/Tema%202%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones
 
 
 ##  Contenido del repositorio
