@@ -15,7 +15,7 @@ Repositorio de temas de **Métodos Numéricos**, desarrollado con ejemplos en Py
   - Bisección, etc.
 
 - `Tema 3`  
-  Métodos adicionales (especificar si hay alguno en particular).
+  Métodos adicionales
 
 - `Tema 4 - Diferenciación e integración numérica`  
   - Regla de Simpson 1/3
