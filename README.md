@@ -35,7 +35,14 @@ Repositorio de temas de **Métodos Numéricos**, desarrollado con ejemplos en Py
   Resolución de sistemas lineales por eliminación de Gauss y truncamiento.
 
 ## 📁 Estructura del repositorio
-
+├── Tema 1 - Introducción/
+├── Tema 2 - Métodos de Solución de Ecuaciones/
+├── Tema 3/
+├── Tema 4 - Diferenciación e integración numérica/
+├── TEMA 5 - Interpolación y ajuste de funciones/
+├── Tema 6 - Solución de ecuaciones diferenciales/
+├── Matriz Gauss/
+└── .gitignore
 
 ## ▶️ Cómo usar
 
