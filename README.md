@@ -1,0 +1,44 @@
+# AndrikOrtega_Repositorio
+
+Repositorio de temas de **Métodos Numéricos**, desarrollado con ejemplos en Python.
+
+## 📚 Temas cubiertos
+
+- `Tema 1 - Introducción`  
+  Fundamentos de errores numéricos y redondeo.
+
+- `Tema 2 - Métodos de Solución de Ecuaciones`  
+  Métodos numéricos como:
+  - Punto fijo
+  - Método de Newton
+  - Método de la secante
+  - Bisección, etc.
+
+- `Tema 3`  
+  Métodos adicionales (especificar si hay alguno en particular).
+
+- `Tema 4 - Diferenciación e integración numérica`  
+  - Regla de Simpson 1/3
+  - Regla de Simpson 3/8
+  - Regla del trapecio
+
+- `TEMA 5 - Interpolación y ajuste de funciones`  
+  - Interpolación de Lagrange
+  - Mínimos cuadrados
+
+- `Tema 6 - Solución de ecuaciones diferenciales`  
+  - Método de Euler
+  - Método de Moulton
+  - Runge-Kutta
+
+- `Matriz Gauss`  
+  Resolución de sistemas lineales por eliminación de Gauss y truncamiento.
+
+## 📁 Estructura del repositorio
+
+
+## ▶️ Cómo usar
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/AndrikOrt432/AndrikOrtega_Repositorio.git
